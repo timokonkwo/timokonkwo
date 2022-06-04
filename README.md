@@ -1,7 +1,7 @@
 Hi 👋 My name is Chibuike Tim Okonkwo
 =====================================
 
-Web3 Developer • Software Engineer
+Frontend Web Developer • Software Engineer
 ----------------------------------
 
 Hi, I'm passionate about building, collaborating and solving complex problems. 
@@ -10,7 +10,7 @@ Currently a computer science student @Harvard CS50 and a software engineeringg s
 
 I'm the founder of @softamplify An innovative tech company that delivers quality and outstanding web apps/mobile apps and Dapps 
 
-I build modern web2/web3 websites and scalable software. Got a project? Hit me up!
+I build modern websites and scalable software. Got a project? Hit me up!
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [timokonkwo](http://timokonkwo.github.io)
