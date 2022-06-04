@@ -13,10 +13,10 @@ I'm the founder of @softamplify An innovative tech company that delivers quality
 I build modern websites and scalable software. Got a project? Hit me up!
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [timokonkwo](http://timokonkwo.github.io)
+* 🖥️  See my portfolio at [timokonkwo](https://www.timokonkwo.com)
 * ✉️  You can contact me at [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)
 * 🧠  I'm learning the blockchain
-* 🤝  I'm open to collaborating on Web2/web3 Projects
+* 🤝  I'm open to collaborating on open source Projects
 
 ### Skills
 
