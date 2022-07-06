@@ -1,16 +1,14 @@
 Hi 👋 My name is Chibuike Tim Okonkwo
 =====================================
 
-Frontend Web Developer • Software Engineer
+Frontend Web Developer • HTML • CSS • JavaScript
 ----------------------------------
 
 Hi, I'm passionate about building, collaborating and solving complex problems. 
 
-Currently a computer science student @Harvard CS50 and a software engineeringg student @ALX 
+Currently a computer science student @Harvard CS50 
 
-I'm the founder of @softamplify An innovative tech company that delivers quality and outstanding web apps/mobile apps and Dapps 
-
-I build modern websites and scalable software. Got a project? Hit me up!
+Got a project? Hit me up!
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [timokonkwo](https://www.timokonkwo.com)
