@@ -1,4 +1,4 @@
-Hi 👋 My name is Chibuike Tim Okonkwo
+Hi 👋 I'm Chibuike Tim Okonkwo
 =====================================
 
 Frontend Web Developer • HTML • CSS • JavaScript
@@ -13,7 +13,7 @@ Got a project? Hit me up!
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [timokonkwo](https://www.timokonkwo.com)
 * ✉️  You can contact me at [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)
-* 🧠  I'm learning the blockchain
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on open source Projects
 
 
