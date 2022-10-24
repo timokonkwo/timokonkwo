@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi <img src"https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
+# Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
 
 I'm Chibuike Tim Okonkwo<br>====================================<br>Frontend Engineer at @softamplify || Microsoft Learn Ambassador || Host Of Tech Talk || Dev Community Builder || Event Speaker<br>-------------------------------------------------------<br><br>I am passionate about using technology to solve real world problems and building developer communities where techies and connect, interact, learn and grow together. I built a tech talent community of 513+ PRO designers and developers and >2000 total community membership. <br><br>Got a project or need tech talents? Hit me up!<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
 
