@@ -1,7 +1,7 @@
 
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">I'm Chibuike ***Tim Okonkwo*** <br>====<br>Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g" align="right">
+<p align="left">I'm Chibuike ***Tim Okonkwo <br>====<br>Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g" align="right">
 </p>
 <p align="left">I am passionate about using technology to solve real world problems and building developer communities where techies and connect, interact, learn and grow together. I built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p> <br><br>Got a project or need tech talents? Hit me up!<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
 
