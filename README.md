@@ -1,6 +1,5 @@
 
-
-<img src="https://im4.ezgif.com/tmp/ezgif-4-5187dfdf82.gif" width="100%" style="object-fit:cover;">
+<img src="https://i.gifer.com/GYny.gif" width="100%" style="object-fit:cover;">
 
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
 
