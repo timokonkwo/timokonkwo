@@ -5,7 +5,7 @@
 <p align="left">I'm Chibuike <b>Tim Okonkwo</b> <br>====<br>Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder 
 </p>
 
-<p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p> <br><br>Got a project or need tech talents? Hit me up!<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
+<p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p> <br>Got a project or need tech talents? Hit me up!<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
 
 
 ## 🌐 Socials:
