@@ -7,8 +7,9 @@
 
 <p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
 
+[![](https://visitcount.itsvg.in/api?id=timokonkwo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Contact Me:
+## 🌐 Connect With Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrtimokonkwo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timokonkwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@timokonkwo) 
 
@@ -34,9 +35,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=timokonkwo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Encourage me by Donating to my projects
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/timokonkwo) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/timokonkwo) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
