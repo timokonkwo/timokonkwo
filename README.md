@@ -1,5 +1,5 @@
 
-<img src="https://i.gifer.com/GYny.gif">
+[](https://i.gifer.com/GYny.gif)
 
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
 
