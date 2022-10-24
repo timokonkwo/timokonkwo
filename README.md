@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/GYny.gif">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
 
