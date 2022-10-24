@@ -1,4 +1,4 @@
-<img src="https://github.com/timokonkwo/timokonkwo/blob/main/Tim%20Okonkwo%20coder.gif" width="100%" height="150px" style="object-fit:cover">
+<img src="https://github.com/timokonkwo/timokonkwo/blob/main/Tim%20Okonkwo%20coder.gif" width="100%" height="150px" style="object-fit:cover;">
 
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px">
 
