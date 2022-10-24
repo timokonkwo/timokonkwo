@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrtimokonkwo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timokonkwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@timokonkwo) 
 
-<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉![timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
+<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
 
 
 
