@@ -5,7 +5,7 @@
 <p align="left">I'm Chibuike <b>Tim Okonkwo</b> <br>====<br>Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder 
 </p>
 
-<p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
+<p align="left">I built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
 
 ## [![](https://visitcount.itsvg.in/api?id=timokonkwo&icon=0&color=0)](https://visitcount.itsvg.in)
 
