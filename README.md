@@ -5,11 +5,16 @@
 <p align="left">I'm Chibuike <b>Tim Okonkwo</b> <br>====<br>Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder 
 </p>
 
-<p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p> <br>Got a project or need tech talents? Hit me up!<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
+<p align="left">Built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrtimokonkwo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timokonkwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@timokonkwo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
+## 🌐 Contact Me:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrtimokonkwo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timokonkwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@timokonkwo) 
+
+<br><br>* 🌍  I'm based in Nigeria<br>* 🖥️  Portfolio 👉![timokonkwo.com](https://www.timokonkwo.com)<br>* ✉️  Contact me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)<br>* 🧠  Learning<br>* 🤝  Open for collaborations and Open source contributions<br>
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
