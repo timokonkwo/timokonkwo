@@ -3,7 +3,7 @@
 ## <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g">
 
 ## I'm Tim Okonkwo
-<br>====<br>
+====<br>
 <p align="left">Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder 
 </p>
 
