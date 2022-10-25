@@ -4,8 +4,7 @@
 
 ## I'm Tim Okonkwo
 ====<br>
-<p align="left">Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder 
-</p>
+**Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder**
 
 <p align="left">I built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
 
