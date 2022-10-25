@@ -15,7 +15,7 @@
 
 * 🌍  Somewhere on the web
 * 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)
-* ✉️  Email me [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)
+* ✉️  Email me 👉 [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)
 * 🧠  Learning
 * 🤝  Open for work, freelance and Open source contributions
 
