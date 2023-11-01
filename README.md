@@ -3,7 +3,6 @@
 <p align="left">Nothing fancy. Just a Software Engineer with some sauce😋 Want some?</p>
 
 * ✉️ I know you want me in your team. Just send an [Email](mailto:chibuiketimokonkwo@gmail.com), I'm coming with the sauce
-* 🖥️ You've not sent that mail? Okay. Here's it, I'm building ChatGPT biggest competitor: [VoiceGPT](https://mrvoicegpt.com) 
 * 🧔 Check out this my personal [website](https://www.timokonkwo.com) too
 
 ### 🌐 I'm sharing a lot on social media:
