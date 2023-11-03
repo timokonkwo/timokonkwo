@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">SoftwareEngineer & DevRel with some sauce here😋 Want some?</p>
+<p align="left">Software Engineer & DevRel with some sauce here😋 Want some?</p>
 
 * ✉️ I know you want me in your team. Just send an [Email](mailto:chibuiketimokonkwo@gmail.com), I'm coming with the sauce
 * 🧔 Check out this my personal [website](https://www.timokonkwo.com) too
