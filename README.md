@@ -2,7 +2,7 @@
 
 <p align="left">Software Engineer & DevRel with some sauce here😋 Want some?</p>
 
-* ✉️ I know you want me in your team. Just send an [Email](mailto:chibuiketimokonkwo@gmail.com), I'm coming with the sauce
+* ✉️ Send an [Email](mailto:chibuiketimokonkwo@gmail.com), Let's talk.
 * 🧔 Check out this my personal [website](https://www.timokonkwo.com) too
 
 ### 🌐 I'm sharing a lot on social media:
