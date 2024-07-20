@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo)
 
-### 📊 Some Stats to impress you to hire me:
+### 📊 Some stats to impress you to hire you 😂
 ![](https://github-readme-stats.vercel.app/api?username=timokonkwo&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=timokonkwo&theme=react&hide_border=false)<br/>
 
