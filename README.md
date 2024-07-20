@@ -2,7 +2,7 @@
 
 <p align="left">Software Engineer & DevRel with some sauce here😋 Want some?</p>
 
-* ✉️ Send an [Email](mailto:chibuiketimokonkwo@gmail.com), Let's talk.
+* ✉️ Send me a [DM](https://t.me/timokonkwo), Let's talk.
 * 🧔 Check out this my personal [website](https://www.timokonkwo.com) too
 
 ### 🌐 I'm sharing a lot on social media:
