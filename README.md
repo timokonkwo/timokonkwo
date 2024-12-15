@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">I build for top 1% web3 and crypto projects </p>
+<p align="left">I build for top 1% web3 and crypto projects: </p>
 
 * DApps
 * Landing Pages
