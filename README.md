@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 
-<p align="left">I build for top 1% web3 and crypto projects: </p>
+<p align="left">We build for top 1% web3 and crypto projects: </p>
 
 * DApps
 * Landing Pages
@@ -14,7 +14,7 @@
 Need any of my services?
 
 * ✉️ Send me a [DM](https://t.me/timokonkwo), Let's talk.
-* 🧔 Check out this my personal [website](https://www.timokonkwo.com) too
+* 🧔 Check out portfolio [website](https://www.luxenlabs.com) 
 
 ### 🌐 I'm sharing a lot on social media:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/timokonkwo_) 
